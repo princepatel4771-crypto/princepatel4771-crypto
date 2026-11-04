@@ -25,4 +25,4 @@ Aspiring Software Developer passionate about problem-solving, building web appli
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) *(apna profile link yahan add kar lena)*
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/princepatelfullstack)

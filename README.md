@@ -17,12 +17,6 @@ Aspiring Software Developer passionate about problem-solving, building web appli
 - **[simon-says-game](https://github.com/princepatel4771-crypto/simon-says-game)** – Interactive memory game built with JavaScript.
 - **[DSA-Practice](https://github.com/princepatel4771-crypto/DSA-Practice)** – Daily problem-solving solutions in Java.
 
----
 
-### 📊 GitHub Stats
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princepatel4771-crypto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princepatel4771-crypto&layout=compact&theme=tokyonight)
-
----
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/princepatelfullstack)
